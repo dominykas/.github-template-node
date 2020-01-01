@@ -2,6 +2,10 @@
   "name": "@dominykas/.github-template-node",
   "version": "0.0.0-development",
   "description": "",
+  "files": [
+    "bin",
+    "lib"
+  ],
   "main": "lib/index.js",
   "scripts": {
     "test": "lab -a @hapi/code -L -t 100 -p 1"
