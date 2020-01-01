@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/dominykas/.github-template-node#readme",
   "devDependencies": {
-    "@hapi/code": "7.x",
-    "@hapi/lab": "22.x",
-    "allow-scripts": "1.x",
-    "semantic-release": "15.x"
+    "@hapi/code": "7.0.0",
+    "@hapi/lab": "22.0.2",
+    "allow-scripts": "1.5.2",
+    "semantic-release": "15.14.0"
   }
 }
