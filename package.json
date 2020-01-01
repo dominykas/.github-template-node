@@ -1,0 +1,28 @@
+{
+  "name": "@dominykas/.github-template-node",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "lab -a @hapi/code -L -t 100 -p 1"
+  },
+  "engines": {
+    "node": "10.x, 12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominykas/.github-template-node"
+  },
+  "author": "Dominykas Blyžė <hello@dominykas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominykas/.github-template-node/issues"
+  },
+  "homepage": "https://github.com/dominykas/.github-template-node#readme",
+  "devDependencies": {
+    "@hapi/code": "7.x",
+    "@hapi/lab": "22.x",
+    "allow-scripts": "1.x",
+    "semantic-release": "15.x"
+  }
+}
