@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/dominykas/.github-template-node#readme",
   "devDependencies": {
-    "@hapi/code": "8.x",
-    "@hapi/lab": "24.x",
+    "@hapi/code": "9.x",
+    "@hapi/lab": "25.x",
     "allow-scripts": "1.x",
     "semantic-release": "18.x"
   }
